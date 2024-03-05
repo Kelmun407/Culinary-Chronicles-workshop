@@ -10,3 +10,12 @@ ul{
 #cuisines{
             font-size:larger;
 }
+
+#dishes{
+    color:black
+
+}
+img{
+    width: 150px;
+    height: 150px;
+}
